@@ -1,1 +1,1 @@
-# TandemG
+# Gateway SDK
